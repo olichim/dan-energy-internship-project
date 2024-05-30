@@ -21,26 +21,37 @@ export const featured = [{
         cover: "../images/hero/h1.png",
         name: "Social Welfare",
         total: "122 Services",
+description:"Social Welfare Volunteers in a volunteer organization work to improve the well-being of individuals, communities, and society as a whole. They provide support, services, and resources to those in need, often in areas such as healthcare, education, and social services. Volunteers may assist with tasks like fundraising, event planning, and community outreach, and may also provide emotional support and companionship to those they serve."
+
     },
     {
         cover: "../images/hero/h2.png",
         name: "Community Development",
         total: "155 Services",
+description:"Community Development Volunteers in a Volunteer Organization work to improve the lives of marginalized communities by implementing projects that address social, economic, and environmental issues. They partner with local organizations, engage in community outreach, and provide resources to support sustainable development. Their efforts focus on empowerment, education, and capacity building to create lasting positive change."
+
     },
     {
         cover: "../images/hero/h3.png",
         name: "Education",
         total: "300 Services",
+description:"Education Volunteers in a volunteer organization refer to individuals who dedicate their time and skills to support educational programs, projects, and activities. They may assist in teaching, mentoring, tutoring, or administrative tasks to promote learning and development among students, teachers, or communities"
+
     },
     {
         cover: "../images/hero/h4.png",
         name: "Healthcare",
         total: "80 Services",
+description:"Healthcare Volunteers in a volunteer organization are individuals who dedicate their time and skills to provide medical and healthcare services to those in need, often in underserved communities. They may assist with tasks such as patient care, medical screenings, health education, and administrative support, aiming to improve healthcare outcomes and promote overall well-being."
+
     },
     {
         cover: "../images/hero/h6.png",
         name: "Environmental Conservation",
         total: "80 Services",
+ description:"Environmental Conservation Volunteers in a volunteer organization work to protect and preserve the natural world by participating in activities such as Habitat restoration and conservation Wildlife monitoring and research Pollution cleanup and prevention Education and outreach programs"
+
+
     },
 ]
 export const list = [{
