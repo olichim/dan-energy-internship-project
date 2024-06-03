@@ -13,7 +13,7 @@ const About = () => {
           <div className='left row'>
             <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
 
-            <p> Organization is a non-profit organization dedicated to [briefly describe your organization's mission and purpose]. We believe that every individual has the power to make a difference, and we strive to empower our community through volunteerism, education, and community development.</p>
+            <p> Our Organization is a non-profit organization dedicated to [briefly describe your organization's mission and purpose]. We believe that every individual has the power to make a difference, and we strive to empower our community through volunteerism, education, and community development.</p>
             <p>Our Values
 We believe in:
 Inclusivity: We believe that everyone deserves an equal opportunity to make a difference.
